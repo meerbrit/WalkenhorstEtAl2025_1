@@ -7,7 +7,7 @@ Intergenerational effects of maternal androgens on vocal ontogeny and developmen
 
 <hr/> 
 
-Britta Walkenhorst a,b*, Ines Braga Goncalves a,c,d, Christine M. Drea d,e,f, Marta B. Manser a,b,d,g
+Britta Walkenhorst a,b*, Ines Braga Goncalves a,c,d, Christine M. Drea d,e,f**, Marta B. Manser a,b,d,g**
 
 a Department of Evolutionary Biology and Environmental Studies, Animal Behaviour, University of Zurich, Switzerland
 b Center for the Interdisciplinary Study of Language Evolution (ISLE), University of Zurich, Switzerland
@@ -18,6 +18,7 @@ f Department of Biology, Duke University, USA
 g Mammal Research Institute, University of Pretoria, South Africa
 
 *Corresponding author. Email: britta.walkenhorst@ieu.uzh.ch
+** CMD and MBM are co-senior authors.
 
 
 
